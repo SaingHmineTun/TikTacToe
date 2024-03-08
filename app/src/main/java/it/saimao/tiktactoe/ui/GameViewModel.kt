@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe.ui
+package it.saimao.tiktactoe.ui
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

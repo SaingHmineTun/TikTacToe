@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe.ui
+package it.saimao.tiktactoe.ui
 
 sealed class UserActions {
     data object PlayAgainButtonClicked: UserActions()

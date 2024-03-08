@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe.ui
+package it.saimao.tiktactoe.ui
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.tween
@@ -15,7 +15,6 @@ import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -34,8 +33,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import it.saimao.tiktaktoe.ui.theme.BlueCustom
-import it.saimao.tiktaktoe.ui.theme.GrayBackground
+import it.saimao.tiktactoe.ui.theme.BlueCustom
+import it.saimao.tiktactoe.ui.theme.GrayBackground
 
 @Composable
 fun GameScreen(

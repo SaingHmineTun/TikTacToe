@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe.ui
+package it.saimao.tiktactoe.ui
 
 data class GameState(
     val playerCircleCount: Int = 0,

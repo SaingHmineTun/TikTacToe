@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe
+package it.saimao.tiktactoe
 
 import org.junit.Test
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "it.saimao.tiktaktoe"
+    namespace = "it.saimao.tiktactoe"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "it.saimao.tiktaktoe"
+        applicationId = "it.saimao.tiktactoe"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

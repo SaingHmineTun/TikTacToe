@@ -1,4 +1,4 @@
-package it.saimao.tiktaktoe.ui.theme
+package it.saimao.tiktactoe.ui.theme
 
 import android.app.Activity
 import android.os.Build
